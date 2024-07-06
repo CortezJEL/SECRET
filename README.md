@@ -1,4 +1,4 @@
 # SECRET
 A SECRET THING
 
-(Visible at "https://CortezJEL.github.io/SECRET/")
+(Visible at "https://NanashiTheNameless.github.io/SECRET/")
